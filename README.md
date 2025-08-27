@@ -38,4 +38,12 @@ This app helps users manage tasks with features like dark mode, animations, and 
 ---
 
 ## 📂 Project Structure  
+todo-app/
+│── index.html # Main file
+│── about.html # About page
+│── contact.html # Contact page
+│── style.css # Styles
+│── script.js # JavaScript logic
+│── screenshots/ # Add screenshots here
+└── README.md # Project details
 
